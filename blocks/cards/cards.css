@@ -1,0 +1,18 @@
+@import url(./__item/cards__item.css);
+@import url(./__image/cards__image.css);
+@import url(./__title/cards__title.css);
+@import url(./__description/cards__description.css);
+
+
+.cards{
+    width: 920px;
+    display: -ms-grid;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 240px);
+    -webkit-column-gap: 100px;
+       -moz-column-gap: 100px;
+            column-gap: 100px;
+    row-gap: 60px;
+    
+    
+}
