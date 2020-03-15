@@ -14,7 +14,7 @@
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-    width: 80%;
+    max-width: 80%;
     padding-top: 100px;
     margin: 0 auto;
 

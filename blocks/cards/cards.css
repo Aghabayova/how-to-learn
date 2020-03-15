@@ -5,7 +5,7 @@
 
 
 .cards{
-    width: 920px;
+    max-width: 920px;
     display: -ms-grid;
     display: grid;
     grid-template-columns: repeat(auto-fill, 240px);
@@ -13,6 +13,6 @@
        -moz-column-gap: 100px;
             column-gap: 100px;
     row-gap: 60px;
-    
+    padding-top: 60px;
     
 }

@@ -5,7 +5,7 @@
     z-index: 2;
     -ms-flex-item-align: center;
         align-self: center;
-    width: 730px;
+    max-width: 730px;
     margin-left: 64px;
     line-height: 96px;
     font-size: 102px;
