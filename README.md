@@ -17,4 +17,4 @@
 на данный момент некоторые линки ведут вникуда. В планах дополнить их необходимой информацией. 
 
 
-### [Ссылка на готовый проект](https://aghabayova.github.io/how-to-learn/)
+### [Link to the finished project](https://aghabayova.github.io/how-to-learn/)
